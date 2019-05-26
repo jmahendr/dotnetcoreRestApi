@@ -1,0 +1,15 @@
+D:\Programming\C#\projects\CmdApi\bin\Debug\netcoreapp2.2\CmdApi.deps.json
+D:\Programming\C#\projects\CmdApi\bin\Debug\netcoreapp2.2\CmdApi.runtimeconfig.json
+D:\Programming\C#\projects\CmdApi\bin\Debug\netcoreapp2.2\CmdApi.runtimeconfig.dev.json
+D:\Programming\C#\projects\CmdApi\bin\Debug\netcoreapp2.2\CmdApi.dll
+D:\Programming\C#\projects\CmdApi\bin\Debug\netcoreapp2.2\CmdApi.pdb
+D:\Programming\C#\projects\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.csprojAssemblyReference.cache
+D:\Programming\C#\projects\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.csproj.CoreCompileInputs.cache
+D:\Programming\C#\projects\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.RazorAssemblyInfo.cache
+D:\Programming\C#\projects\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.RazorAssemblyInfo.cs
+D:\Programming\C#\projects\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.AssemblyInfoInputs.cache
+D:\Programming\C#\projects\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.AssemblyInfo.cs
+D:\Programming\C#\projects\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.RazorTargetAssemblyInfo.cache
+D:\Programming\C#\projects\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.dll
+D:\Programming\C#\projects\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.pdb
+D:\Programming\C#\projects\CmdApi\bin\Debug\netcoreapp2.2\appsettings.json
