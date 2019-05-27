@@ -2,11 +2,15 @@ Communication to services in the host machine can access them using host.docker.
 
 
 Start SQL Server Container as 
-$ docker run -d -p 1433:1433 -e sa_password=mystrongpassword0! -e ACCEPT_EULA=Y --name mssql microsoft/mssql-server-windows-express
+docker run -d -p 1433:1433 -e sa_password=mystrongpassword0! -e ACCEPT_EULA=Y --name mssql microsoft/mssql-server-windows-express
 This will start a continer on the local host.
 
 Then we can build and serve this container with donet core api that can reference the sql server as host.docker.internal
 
+#Build Image
+docker build -t cmdapi .
+
+#Run Container
 docker run -p 5000:80 -e "DbConnectionString=Server=host.docker.internal,1433;Database=CmdApi;User=sa;Password=mystrongpassword0!;" --name myCmdApi1 cmdapi:latest
 
 
